@@ -21,7 +21,8 @@ TypeScript program to search for asteroids using NASA JPL Horizons and Asterank 
 - **Tech:** TypeScript, NASA JPL Horizons API
 
 ### [Flymoon](https://github.com/Tailspin45/flymoon-main) ✈️🌙
-Aircraft sun/moon transit predictions - catch planes crossing the Moon or Sun!
+- Extend origional brilliant idea created by daltlc
+- Aircraft sun/moon transit predictions - catch planes crossing the Moon or Sun!
 - Real-time flight tracking with transit predictions
 - Web app for local LAN network deployment
 - Calculates intersections between aircraft flight paths and celestial bodies
